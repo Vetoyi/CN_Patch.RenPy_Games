@@ -7,9 +7,9 @@
 - [Github](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
 ## :point_down:College Kings／学校列王
 - 更新中
-## :arrow_down:Love Season／恋爱季节
+## :point_down:Love Season／恋爱季节
 - 更新中
-## :arrow_down:My Cute Roommate／我的性感表姐／我的可爱室友
+## :point_down:My Cute Roommate／我的性感表姐／我的可爱室友
 - [Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-## :arrow_down:Void's Calling／虚空的召唤
+## :point_down:Void's Calling／虚空的召唤
 - [Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　　　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
