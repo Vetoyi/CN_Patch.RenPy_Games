@@ -8,5 +8,5 @@
 ## Love Season
 ## My Cute Roommate
 - [Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-## :point_down:Void's Calling／虚空的召唤
+## Void's Calling
 - [Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　　　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
