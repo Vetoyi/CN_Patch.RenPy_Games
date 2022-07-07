@@ -4,7 +4,7 @@
 ## Acting Lessons／表演课
 - 更新中
 ## Being A DIK／我的大学生活／我在兄弟会的时光／巅峰人生
-- [Github](https://github.com/Vetoyi/Being-A-DIK)
+- Github
 ## College Kings／学校列王
 - 更新中
 ## Love Season／恋爱季节
