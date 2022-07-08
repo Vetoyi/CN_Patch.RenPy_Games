@@ -9,4 +9,4 @@
 ## College Kings(未推出，更新中)
 ## Love Season(未推出，更新中)
 ## [My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-## [Void's Calling](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
+## [Void's Calling](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
