@@ -9,4 +9,4 @@
 ## [College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ## [Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
 ## [My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-## [Void's Calling](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
+## [Void's Calling](https://github.com/Vetoyi/CN_Patch.Void-s_Calling_ep.1)　[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
