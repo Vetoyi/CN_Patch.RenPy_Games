@@ -14,5 +14,5 @@
 ### :video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)（[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)）
 ***
 ## Itch.io
-> 汉化补丁系列初衷是为了方便正版玩家，故仅对在Steam平台发布的游戏制作汉化补丁，但在遇到像Eternum一样因各类原因仅在Itch平台发布而无缘Steam的游戏之后，我决定在今后增加对Itch平台上欧美黄油的汉化补丁制作，使那些没法上架或作者无意向上架Steam的游戏，也能被汉化得以体验。并且Itch平台游戏在免费的同时，也可在下载提示页面中选择捐助开发者，各位如果有心就去支持一下吧！可以自定义捐助金额大家量力而行，国区Paypal付款即可，并且游戏也会被添加至你的Itch库存中的已拥有列表内，也算是支持正版了。
+> 汉化补丁系列初衷是为了方便正版玩家，故仅对在Steam平台发布的游戏制作汉化补丁，但在遇到像Eternum一样因各类原因仅在Itch平台发布，并且无缘Steam的游戏之后，我决定增加对这些游戏的汉化补丁制作，使它们也能得以在汉化后被更多玩家体验。并且Itch平台游戏在免费的同时，也可在下载提示页面中选择捐助开发者，各位如果有心就去支持一下吧！可以自定义捐助金额大家量力而行，国区Paypal付款即可，并且游戏也会被添加至你的Itch库存中的已拥有列表内，也算是支持正版了。
 ### :video_game:[Eternum](https://github.com/Vetoyi/CN_Patch.Eternum)
