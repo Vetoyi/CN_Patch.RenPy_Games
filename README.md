@@ -9,10 +9,9 @@
 ### :video_game:Acting Lessons(摸鱼中，暂未上传)
 ### <details><summary>:video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)　(:bell:更新0.09 - 2022.09.07)</summary><br>:speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)</details>
 ### <details><summary>:video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)</summary><br>:bell:更新至0.04 - 2022.10.22</details>
-### :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
-**:hourglass_flowing_sand::arrow_upper_left:(更新至0.01 - 2022.07.13)**
+### <summary>:video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)　(:bell:更新至0.01 - 2022.07.13)</summary>
 ### :video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-### :video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)　(:speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　:speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883))
+### <details><summary>:video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)　(:speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　:speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883))
 :bell:(更新至0.25 - 2022.01.23)
 ****
 ***
