@@ -8,9 +8,9 @@
 ## Steam
 ### :video_game:Acting Lessons(摸鱼中，暂未上传)
 ### :video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)([Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/))
-:arrow_upper_left:(更新至0.09 - 2022.09.07)
+**:arrow_upper_left:(更新至0.09 - 2022.09.07)**
 ### :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
-:arrows_clockwise:(更新至0.04 - 2022.10.22)
+:arrow_upper_left(更新至0.04 - 2022.10.22)
 ### :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)(更新至0.01 - 2022.07.13)
 ### :video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
 ### :video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)(更新至0.25 - 2022.01.23)
