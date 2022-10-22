@@ -7,11 +7,11 @@
 ***
 ## Steam
 ### :video_game:Acting Lessons(摸鱼中，暂未上传)
-### <details><summary>:video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)　(:bell:更新0.09 - 2022.09.07)</summary><br>:speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)</details>
-### :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)　(:bell:2022.10.22 - 0.04)
-### :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)　(:bell:更新至0.01 - 2022.07.13)
+### <details><summary>:video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)　(:bell:0.09 - 2022.09.07)</summary><br>:speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)</details>
+### :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)　(:bell:0.04 - 2022.10.22)
+### :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)　(:bell:0.01 - 2022.07.13)
 ### :video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-### <details><summary>:video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)　(:bell:更新至0.25 - 2022.01.23)</summary><br>:speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　:speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)</details>
+### <details><summary>:video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)　(:bell:0.25 - 2022.01.23)</summary><br>:speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/)　:speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)</details>
 ***
 ## Itch.io
 > 汉化补丁系列初衷是为了方便正版玩家，故仅对在Steam平台发布的游戏制作汉化补丁，但在遇到一些因各类原因只能在Itch平台发布而无缘Steam的游戏之后，我决定增加对Itch平台上这些游戏的汉化补丁制作，使其也能得以被汉化并为更多玩家所体验。而另一方面，Itch平台在下载时也提供了捐助选项，像Eternum这样高质量的免费游戏，在可以选择`“No,thanks…”`忽略捐款直接下载的同时，也可以选择捐款支持开发者，这点大家量力而行即可。捐款支持自定义金额，可以国区Paypal直接付款，付款完成后游戏也会被添加至你Itch库存的已拥有列表中，如此一来便在支持开发者的同时也达成了库存+1。
