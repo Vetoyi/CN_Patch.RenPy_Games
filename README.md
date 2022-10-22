@@ -7,7 +7,7 @@
 ***
 ## Steam
 ### :video_game:Acting Lessons(摸鱼中，暂未上传)
-### :video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)　(:bell:0.09:speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/))
+### :video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)　(:bell:0.09 :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/))
 ### :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)　(:bell:0.04)
 ### :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)　(:bell:0.01)
 ### :video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
