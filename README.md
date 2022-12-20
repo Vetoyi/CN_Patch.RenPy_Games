@@ -6,7 +6,7 @@
 <br>补丁仅供交流学习使用，请勿用于商业目的，违者后果自负，本人概不负责。**
 ***
 ## Steam
-### (:bell:0.00):video_game:Acting Lessons (摸了)
+### (:bell:0.00):video_game:Acting Lessons (好像摸得有点过分了，主要玩通了没啥动力之后再看看)
 ### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### (:bell:0.00):video_game:Depraved Awakening（等我哪天品完了再说，可能会多完善下再发）
