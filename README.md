@@ -8,7 +8,7 @@
 ***
 ## Steam
 ### (:bell:0.00):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons) (好像摸得有点过分了，主要玩通了没啥动力之后再看看)
-### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)
+### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/) (flag立太多了，我要是再加一句阳之前本打算重新校对一遍EP1-6会怎样)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### (:bell:0.00):video_game:Depraved Awakening（等我哪天品完了再说，可能会多完善下再发）
 ### (:bell:0.00):video_game:Element-174（开始怀疑不该开那么多坑，最近在忙毕设等事情以后再慢慢发）
