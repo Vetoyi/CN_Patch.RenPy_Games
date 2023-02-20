@@ -8,10 +8,10 @@
 ***
 ## Steam
 ### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)(已更新) :speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1045520/)
-### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/) (我要是再加句阳之前本打算重新校对一遍EP1-6会怎样)
+### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
-### (:bell:0.00):video_game:Depraved Awakening（等我哪天品完了再说，可能会多完善下再发）
-### (:bell:0.00):video_game:Element-174（开始怀疑不该开那么多坑，最近在忙毕设等事情以后再慢慢发）
+### (:bell:0.00):video_game:Depraved Awakening
+### (:bell:0.00):video_game:Element-174
 ### (:bell:0.01):video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
 ### (:bell:0.01):video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
 ### (:bell:0.25):video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1) :speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/) :speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
