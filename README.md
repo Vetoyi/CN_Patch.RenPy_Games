@@ -18,4 +18,4 @@
 ***
 ## Itch.io
 > 汉化补丁系列初衷是为了方便正版玩家，故仅对在Steam平台发布的游戏制作汉化补丁，但在遇到一些因各类原因只能在Itch平台发布而无缘Steam的游戏之后，我决定增加对Itch平台上这些游戏的汉化补丁制作，使其也能得以被汉化并为更多玩家所体验。而另一方面，Itch平台在下载时也提供了捐助选项，像Eternum这样高质量的免费游戏，在可以选择`“No,thanks…”`忽略捐款直接下载的同时，也可以选择捐款支持开发者，这点大家量力而行即可。捐款支持自定义金额，可以国区Paypal直接付款，付款完成后游戏也会被添加至你Itch库存的已拥有列表中，如此一来便在支持开发者的同时也达成了库存+1。
-### (:bell:0.01):video_game:[ETERNUM](https://github.com/Vetoyi/CN_Patch.ETERNUM) (停止更新)
+### (:bell:0.01):video_game:[ETERNUM](https://github.com/Vetoyi/CN_Patch.ETERNUM) (已停更)(请前往ETERNUM的Itch官方页面使用精翻汉化补丁)
