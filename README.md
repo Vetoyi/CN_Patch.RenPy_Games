@@ -7,7 +7,7 @@
 <br><br>P.S. 如果我忽略了你的Steam好友申请，希望你别太在意因为我经常这样。另外大家也不必因为补丁而想说送我什么，实在有心就还请多支持开发者和他们的游戏吧，祝各位一切顺利，也希望这些补丁能帮到更多有需要的人。**
 ***
 ## Steam
-### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)(已更新)
+### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)
 ### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### (:bell:0.00):video_game:Depraved Awakening
