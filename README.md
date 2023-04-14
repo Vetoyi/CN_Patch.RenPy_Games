@@ -7,15 +7,16 @@
 <br><br>P.S. 如果我忽略了你的Steam好友申请，希望你别太在意因为我经常这样。另外大家也不必因为补丁而感谢我什么，我实际付出的汉化工作程度相比开发者实在甚小，甚至很多汉化文本也都不完全来自于我，实在有心就还请多支持开发者和他们的游戏，以及感谢那些汉化组努力取得的成果。祝各位一切顺利，也希望这些补丁能帮到更多有需要的人。**
 ***
 ## Steam
+2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行，这波给我点过赞的xdm估计都要遭殃，对不住了。
 ### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)
-### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK) :speech_balloon:[Steam评测](https://steamcommunity.com/profiles/76561199398077224/recommended/1126320/)
+### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### (:bell:0.00):video_game:Depraved Awakening
 ### (:bell:0.00):video_game:Element-174
 ### (:bell:0.01):video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
 ### (:bell:0.01):video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
-### (:bell:0.01):video_game:[Summer Crush](https://github.com/Vetoyi/CN_Patch.Summer_Crush)　写个评测直接红了草，现在G胖管这么严了么
-### (:bell:0.25):video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1) :speech_balloon:[Steam评测](https://steamcommunity.com/id/Vetoy/recommended/1212020/) :speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
+### (:bell:0.01):video_game:[Summer Crush](https://github.com/Vetoyi/CN_Patch.Summer_Crush)　
+### (:bell:0.25):video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)
 ***
 ## Itch.io
 > 汉化补丁系列初衷是为了方便正版玩家，故仅对在Steam平台发布的游戏制作汉化补丁，但在遇到一些因各类原因只能在Itch平台发布而无缘Steam的游戏之后，我决定增加对Itch平台上这些游戏的汉化补丁制作，使其也能得以被汉化并为更多玩家所体验。而另一方面，Itch平台在下载时也提供了捐助选项，像Eternum这样高质量的免费游戏，在可以选择`“No,thanks…”`忽略捐款直接下载的同时，也可以选择捐款支持开发者，这点大家量力而行即可。捐款支持自定义金额，可以国区Paypal直接付款，付款完成后游戏也会被添加至你Itch库存的已拥有列表中，如此一来便在支持开发者的同时也达成了库存+1。
