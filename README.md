@@ -7,7 +7,7 @@
 <br><br>P.S. 如果我忽略了你的Steam好友申请，希望你别太在意因为我经常这样。另外大家也不必因为补丁而感谢我什么，我实际付出的汉化工作程度相比开发者实在甚小，甚至很多汉化文本也都不完全来自于我，实在有心就还请多支持开发者和他们的游戏，以及感谢那些汉化组努力取得的成果。祝各位一切顺利，也希望这些补丁能帮到更多有需要的人。**
 ***
 ## Steam
-2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行，这波给我点过赞的xdm估计都要遭殃，对不住了。
+2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行。
 ### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)
 ### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
