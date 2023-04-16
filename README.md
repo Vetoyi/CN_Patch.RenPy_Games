@@ -8,7 +8,7 @@
 ***
 ## Steam
 2023.04.17联系客服44h后解了红信，以后就不再为补丁发评测了省得又封，新玩家能否找到Github还是继续随缘吧，也建议各位不要发外链评测，以免跟我一样评测红，实际上貌似有的xd评测只是单纯提了下github有补丁就也没了，只能说不懂吧。
-2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行。
+<br>2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行。
 ### (:bell:0.02):video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)
 ### (:bell:0.09):video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
 ### (:bell:0.04):video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
