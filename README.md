@@ -15,7 +15,7 @@
 ### (:bell:0.00):video_game:Depraved Awakening
 ### (:bell:0.00):video_game:Element-174
 ### (:bell:0.01):video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
-### (:bell:0.01):video_game:[My Cute Roommate](https://steamcommunity.com/id/Vetoy/recommended/1276610/)
+### (:bell:0.01):video_game:[My Cute Roommate](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate)
 ### (:bell:0.01):video_game:[Summer Crush](https://github.com/Vetoyi/CN_Patch.Summer_Crush)　
 ### (:bell:0.25):video_game:[Void's Calling](https://github.com/Vetoyi/CN_Patch.Voids_Calling_ep.1)　:speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883)
 ***
