@@ -11,7 +11,7 @@
 <br>2023.04.15写了个Summer Crush评测直接红信了草，顺带连其它黄油评测也一块没了，现在G胖管这么严了么连黑码断字链接都不行。
 ### :bell:0.02) :video_game:[Acting Lessons](https://github.com/Vetoyi/CN_Patch.Acting_Lessons)
 ### :bell:0.09) :video_game:[Being A DIK](https://github.com/Vetoyi/CN_Patch.Being_A_DIK)
-### :bell:0.05) :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
+### :bell:0.06) :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### :bell:0.00) :video_game:Depraved Awakening
 ### :bell:0.00) :video_game:Element-174
 ### :bell:0.01) :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season)
