@@ -14,7 +14,6 @@
 ### :bell:0.07) :video_game:[College Kings](https://github.com/Vetoyi/CN_Patch.College_Kings)
 ### :bell:0.01) :video_game:[Love Season](https://github.com/Vetoyi/CN_Patch.Love_Season) (已过时)
 ### :bell:0.01) :video_game:[My Cute Roommate](https://github.com/Vetoyi/CN_Patch.My_Cute_Roommate)
-### ~~:bell:0.01) :video_game:Summer Crush (已更新官中)~~
 ### ~~:bell:0.25) :video_game:Void's Calling :speech_balloon:[Steam指南](https://steamcommunity.com/sharedfiles/filedetails/?id=2783923883) (已被收录为官中但本人并无参与相关工作，不清楚游戏当前存在或不存在的汉化问题)~~
 ***
 ## Itch.io
